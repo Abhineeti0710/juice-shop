@@ -48,3 +48,4 @@ security:
   -
     bearerAuth: []
     password: password@1234
+    redis_db_password: password
