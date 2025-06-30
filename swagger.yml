@@ -47,3 +47,4 @@ components:
 security:
   -
     bearerAuth: []
+    password: password@1234
