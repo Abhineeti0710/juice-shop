@@ -55,4 +55,5 @@ security:
     SECRET_KEY_BASE: 9a143cdhj4kweljllr
     password: ${password}
     sasl.jaas.config: org.apache.kafka.common.security.test.TestModule required username="${kafka.admin.username}" password="abcd";
+    token : tr45689sddr45
     
