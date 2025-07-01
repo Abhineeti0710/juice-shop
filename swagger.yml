@@ -50,3 +50,4 @@ security:
     password: password@1234
     redis_db_password: password
     key: key123
+    PASSWORD: abc
